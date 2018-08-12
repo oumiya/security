@@ -1,5 +1,7 @@
 # THE SECURITY
 
+![画面イメージ](https://raw.githubusercontent.com/oumiya/security/master/images/mood001.jpg)
+
 ## 概要
 
 あなたは危険な廃ビルの警備員となった。一晩の間、廃ビルを守る。そう、たった一晩。
